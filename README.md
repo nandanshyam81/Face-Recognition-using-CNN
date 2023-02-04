@@ -8,7 +8,8 @@ Keras ImageDataGenerator is used for getting the input of the original data and 
 > 
 > CNN generally requires high training data for its accuracy to be more.
 
-![image](https://user-images.githubusercontent.com/109072424/207683040-24f409d5-89a5-41a3-b831-458ef6d7f05a.png)
+![image](https://user-images.githubusercontent.com/109072424/216766083-39e4ee55-e802-442d-a232-d6ab6a4265ab.png)
+
 
 > The convolutional layers are the initial layers to pull out features from the image.It maintains the relationship between pixels by learning features using a small input data sequence.It is a mathematical term that takes two inputs, an image matrix and a kernel or filter.Kernel is a filter that is used to extractt the features from the images.
 
